@@ -2,7 +2,7 @@
 > npm create vite@latest
 
 2. 
-√ Project name: ... docs
+√ Project name: ... Notes-react-app
 √ Select a framework: » React
 √ Select a variant: » JavaScript
 
